@@ -8,5 +8,5 @@
 Armazenar e organizar os projetos executados.
 
 ## Ferramentas 🛠️
-[![Python](https://pluspng.com/img-png/python-logo-png-open-2000.png)]([https://docs.github.com/](https://www.python.org))
+Python
 
